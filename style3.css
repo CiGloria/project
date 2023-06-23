@@ -1,0 +1,9 @@
+
+    .container {
+      margin-top: 50px;
+      background-image: url('<?php echo get_random_background(); ?>');
+      background-size: cover;
+      background-position: center;
+      min-height: 100vh;
+      padding: 20px;
+    }
